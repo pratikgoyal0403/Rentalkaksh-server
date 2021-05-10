@@ -4,7 +4,7 @@
   "description": "rental kaksh in where users can find rooms easily",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
